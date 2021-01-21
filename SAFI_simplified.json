@@ -1,0 +1,19 @@
+[{
+  "village": "Chirodzo",
+  "no_members": 5,
+  "memb_assoc":true ,
+  "house": {
+    "wall_type": "muddaub",
+   "rooms":2
+  }
+} ,
+{
+  "village": "Ruaca",
+  "no_members": 7,
+  "memb_assoc":false ,
+  "house": {
+    "wall_type": "burntbricks",
+   "rooms":4
+  }
+}
+]
